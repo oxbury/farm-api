@@ -23,6 +23,8 @@ Please avoid using a full web application framework such as NestJS or Laravel as
 * Must demonstrate good development practices.
 * We will be looking at your git history to understand your process, so please make it clear with appropriate commit messages.
 
+## Info
+
 The above task should be clear and manageable to be completed within ~2 hours timeframe for the experienced developer. If you have any questions feel free to ask as soon as possible as this is a time-critical task.
  
 We aren't providing a skeleton project for this.
