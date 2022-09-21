@@ -8,13 +8,13 @@ Please avoid using a full web application framework such as NestJS or Laravel as
 
 * Implement a simple RESTful API that:
   * Makes available the data in [this file](/data.json)
-  * Provides ability to add/edit/delete data
   * Provides ability to paginate response (default 30 items per page)
   * Provides ability to query data sets on their field values and linked field values (e.g. `farmer_id` in applications)
 
 ### Extra / Bonus Points
 
 * If you have extra time feel free to add extra features you think would be appropriate, e.g:
+  * Provide ability to add/edit/delete data
   * Authentication
   * Rate Limiting
 
