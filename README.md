@@ -2,7 +2,7 @@
 
 This is a technical test to evaluate your integration and web development knowledge. We will accept submissions in any of NodeJS (TypeScript or JavaScript), PHP, Java and Python.
 
-Please avoid using a full web application framework such as NestJS or Laravel as they do a lot of the decision making for you and we want to see what decisions and choices you make. You are free however to use smaller packages to speed up development process.
+Please avoid using a full web application framework such as NestJS or Laravel as they do a lot of the decision making for you and we want to see what decisions and choices you make. You are free however, to use smaller packages to speed up development process.
 
 ## Task
 
