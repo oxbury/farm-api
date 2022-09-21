@@ -1,0 +1,530 @@
+{
+  "data": {
+    "application": [
+      {
+        "id": 1423080,
+        "type": "loan",
+        "amount_requested": 5830000.0,
+        "status": "approved",
+        "product_id": 1792464,
+        "farmer_id": 1079352
+      },
+      {
+        "id": 1553043,
+        "type": "loan",
+        "amount_requested": 9380000.0,
+        "status": "in_progress",
+        "product_id": 1792464,
+        "farmer_id": 1789096
+      },
+      {
+        "id": 1174931,
+        "type": "loan",
+        "amount_requested": 3220000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1684922
+      },
+      {
+        "id": 1158871,
+        "type": "flexi_credit",
+        "amount_requested": 44700.0,
+        "status": "approved",
+        "product_id": 1267239,
+        "farmer_id": 1892355
+      },
+      {
+        "id": 1350989,
+        "type": "loan",
+        "amount_requested": 480000.0,
+        "status": "in_progress",
+        "product_id": 1792464,
+        "farmer_id": 1581974
+      },
+      {
+        "id": 1002850,
+        "type": "loan",
+        "amount_requested": 9740000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1834176
+      },
+      {
+        "id": 1756245,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "approved",
+        "product_id": 1915235,
+        "farmer_id": 1134599
+      },
+      {
+        "id": 1308812,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "in_progress",
+        "product_id": 1693385,
+        "farmer_id": 1134599
+      },
+      {
+        "id": 1081836,
+        "type": "loan",
+        "amount_requested": 490000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1834176
+      },
+      {
+        "id": 1056609,
+        "type": "loan",
+        "amount_requested": 8180000.0,
+        "status": "in_progress",
+        "product_id": 1792464,
+        "farmer_id": 1145883
+      },
+      {
+        "id": 1477633,
+        "type": "flexi_credit",
+        "amount_requested": 32200.0,
+        "status": "approved",
+        "product_id": 1267239,
+        "farmer_id": 1990707
+      },
+      {
+        "id": 1279980,
+        "type": "loan",
+        "amount_requested": 3650000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1684922
+      },
+      {
+        "id": 1345932,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "declined",
+        "product_id": 1693385,
+        "farmer_id": 1822191
+      },
+      {
+        "id": 1042628,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "approved",
+        "product_id": 1915235,
+        "farmer_id": 1978693
+      },
+      {
+        "id": 1393134,
+        "type": "flexi_credit",
+        "amount_requested": 78700.0,
+        "status": "in_progress",
+        "product_id": 1267239,
+        "farmer_id": 1892355
+      },
+      {
+        "id": 1300106,
+        "type": "loan",
+        "amount_requested": 2950000.0,
+        "status": "approved",
+        "product_id": 1792464,
+        "farmer_id": 1145883
+      },
+      {
+        "id": 1891356,
+        "type": "loan",
+        "amount_requested": 8750000.0,
+        "status": "approved",
+        "product_id": 1792464,
+        "farmer_id": 1145883
+      },
+      {
+        "id": 1623707,
+        "type": "loan",
+        "amount_requested": 5600000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1427876
+      },
+      {
+        "id": 1706350,
+        "type": "loan",
+        "amount_requested": 9190000.0,
+        "status": "in_progress",
+        "product_id": 1792464,
+        "farmer_id": 1427876
+      },
+      {
+        "id": 1277604,
+        "type": "loan",
+        "amount_requested": 3750000.0,
+        "status": "declined",
+        "product_id": 1792464,
+        "farmer_id": 1581974
+      },
+      {
+        "id": 1379693,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "in_progress",
+        "product_id": 1915235,
+        "farmer_id": 1642838
+      },
+      {
+        "id": 1639472,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "in_progress",
+        "product_id": 1915235,
+        "farmer_id": 1789096
+      },
+      {
+        "id": 1012102,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "approved",
+        "product_id": 1693385,
+        "farmer_id": 1303764
+      },
+      {
+        "id": 1277929,
+        "type": "flexi_credit",
+        "amount_requested": 98000.0,
+        "status": "declined",
+        "product_id": 1267239,
+        "farmer_id": 1412022
+      },
+      {
+        "id": 1995500,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "declined",
+        "product_id": 1693385,
+        "farmer_id": 1704406
+      },
+      {
+        "id": 1560391,
+        "type": "loan",
+        "amount_requested": 8470000.0,
+        "status": "approved",
+        "product_id": 1792464,
+        "farmer_id": 1710582
+      },
+      {
+        "id": 1086172,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "in_progress",
+        "product_id": 1915235,
+        "farmer_id": 1079352
+      },
+      {
+        "id": 1339741,
+        "type": "flexi_credit",
+        "amount_requested": 9100.0,
+        "status": "declined",
+        "product_id": 1267239,
+        "farmer_id": 1544728
+      },
+      {
+        "id": 1183842,
+        "type": "savings",
+        "amount_requested": null,
+        "status": "approved",
+        "product_id": 1693385,
+        "farmer_id": 1134599
+      },
+      {
+        "id": 1584568,
+        "type": "loan",
+        "amount_requested": 9200000.0,
+        "status": "in_progress",
+        "product_id": 1792464,
+        "farmer_id": 1131620
+      }
+    ],
+    "farm": [
+      {
+        "id": 1186471,
+        "name": "Martin & Sons",
+        "num_cows": 28,
+        "num_chickens": 195,
+        "num_pigs": 40,
+        "acres_farmed": 100
+      },
+      {
+        "id": 1400601,
+        "name": "Mandel & Sons",
+        "num_cows": 17,
+        "num_chickens": 127,
+        "num_pigs": 99,
+        "acres_farmed": 1100
+      },
+      {
+        "id": 1750722,
+        "name": "Choate & Sons",
+        "num_cows": 10,
+        "num_chickens": 124,
+        "num_pigs": 4,
+        "acres_farmed": 600
+      },
+      {
+        "id": 1866552,
+        "name": "Camper & Sons",
+        "num_cows": 13,
+        "num_chickens": 152,
+        "num_pigs": 7,
+        "acres_farmed": 1700
+      },
+      {
+        "id": 1174728,
+        "name": "Roberta Pierre & Brothers",
+        "num_cows": 7,
+        "num_chickens": 93,
+        "num_pigs": 60,
+        "acres_farmed": 1300
+      },
+      {
+        "id": 1584305,
+        "name": "Angelina Cox & Brothers",
+        "num_cows": 26,
+        "num_chickens": 60,
+        "num_pigs": 62,
+        "acres_farmed": 800
+      },
+      {
+        "id": 1354963,
+        "name": "Susan Weber & Brothers",
+        "num_cows": 26,
+        "num_chickens": 198,
+        "num_pigs": 17,
+        "acres_farmed": 1200
+      },
+      {
+        "id": 1004967,
+        "name": "Johnnie Blair & Brothers",
+        "num_cows": 3,
+        "num_chickens": 162,
+        "num_pigs": 20,
+        "acres_farmed": 900
+      },
+      {
+        "id": 1520841,
+        "name": "Locker Farms",
+        "num_cows": 15,
+        "num_chickens": 63,
+        "num_pigs": 65,
+        "acres_farmed": 800
+      },
+      {
+        "id": 1483148,
+        "name": "Griffin Farms",
+        "num_cows": 14,
+        "num_chickens": 110,
+        "num_pigs": 48,
+        "acres_farmed": 600
+      },
+      {
+        "id": 1816233,
+        "name": "Lambert Farms",
+        "num_cows": 27,
+        "num_chickens": 198,
+        "num_pigs": 85,
+        "acres_farmed": 1200
+      },
+      {
+        "id": 1953865,
+        "name": "Pecora Farms",
+        "num_cows": 6,
+        "num_chickens": 16,
+        "num_pigs": 39,
+        "acres_farmed": 1000
+      },
+      {
+        "id": 1893865,
+        "name": "Stearns Farms",
+        "num_cows": 0,
+        "num_chickens": 112,
+        "num_pigs": 73,
+        "acres_farmed": 1400
+      },
+      {
+        "id": 1252110,
+        "name": "Martin Farms",
+        "num_cows": 2,
+        "num_chickens": 29,
+        "num_pigs": 71,
+        "acres_farmed": 200
+      },
+      {
+        "id": 1901305,
+        "name": "Garner Farms",
+        "num_cows": 25,
+        "num_chickens": 27,
+        "num_pigs": 73,
+        "acres_farmed": 1900
+      }
+    ],
+    "farmer": [
+      {
+        "id": 1544728,
+        "name": "Linnie Abbott",
+        "age": 18,
+        "phone_number": "07700900669",
+        "farm_id": 1866552
+      },
+      {
+        "id": 1990707,
+        "name": "Ruth Park",
+        "age": 48,
+        "phone_number": "07700900493",
+        "farm_id": 1004967
+      },
+      {
+        "id": 1208127,
+        "name": "Tiffany Arbogast",
+        "age": 24,
+        "phone_number": "07700900808",
+        "farm_id": 1750722
+      },
+      {
+        "id": 1079352,
+        "name": "Clementine Stephens",
+        "age": 48,
+        "phone_number": "07700900671",
+        "farm_id": 1004967
+      },
+      {
+        "id": 1704406,
+        "name": "Kathy Dunnagan",
+        "age": 63,
+        "phone_number": "07700900845",
+        "farm_id": 1750722
+      },
+      {
+        "id": 1395080,
+        "name": "Mark Mcgee",
+        "age": 28,
+        "phone_number": "07700900016",
+        "farm_id": 1186471
+      },
+      {
+        "id": 1978693,
+        "name": "Linda Pritchard",
+        "age": 18,
+        "phone_number": "07700900520",
+        "farm_id": 1400601
+      },
+      {
+        "id": 1134599,
+        "name": "Wayne Medley",
+        "age": 38,
+        "phone_number": "07700900659",
+        "farm_id": 1400601
+      },
+      {
+        "id": 1412022,
+        "name": "Barry Newman",
+        "age": 34,
+        "phone_number": "07700900488",
+        "farm_id": 1953865
+      },
+      {
+        "id": 1710582,
+        "name": "Donnell Morris",
+        "age": 19,
+        "phone_number": "07700900600",
+        "farm_id": 1901305
+      },
+      {
+        "id": 1684922,
+        "name": "Casey Sacchetti",
+        "age": 25,
+        "phone_number": "07700900173",
+        "farm_id": 1816233
+      },
+      {
+        "id": 1642838,
+        "name": "Laura Carter",
+        "age": 68,
+        "phone_number": "07700900050",
+        "farm_id": 1584305
+      },
+      {
+        "id": 1303764,
+        "name": "Christine Martin",
+        "age": 27,
+        "phone_number": "07700900860",
+        "farm_id": 1816233
+      },
+      {
+        "id": 1238060,
+        "name": "John Strickland",
+        "age": 40,
+        "phone_number": "07700900880",
+        "farm_id": 1004967
+      },
+      {
+        "id": 1131620,
+        "name": "Ignacio Amsden",
+        "age": 27,
+        "phone_number": "07700900866",
+        "farm_id": 1004967
+      },
+      {
+        "id": 1834176,
+        "name": "Ricky Elbert",
+        "age": 36,
+        "phone_number": "07700900009",
+        "farm_id": 1866552
+      },
+      {
+        "id": 1789096,
+        "name": "Franklin Sloan",
+        "age": 60,
+        "phone_number": "07700900077",
+        "farm_id": 1186471
+      },
+      {
+        "id": 1427876,
+        "name": "Cindy Ameduri",
+        "age": 50,
+        "phone_number": "07700900457",
+        "farm_id": 1893865
+      },
+      {
+        "id": 1822191,
+        "name": "Sandra Gross",
+        "age": 63,
+        "phone_number": "07700900510",
+        "farm_id": 1400601
+      },
+      {
+        "id": 1145883,
+        "name": "Bart Smythe",
+        "age": 31,
+        "phone_number": "07700900110",
+        "farm_id": 1584305
+      },
+      {
+        "id": 1581974,
+        "name": "Pamela Anderson",
+        "age": 42,
+        "phone_number": "07700900300",
+        "farm_id": 1750722
+      },
+      {
+        "id": 1892355,
+        "name": "Ruben Carriger",
+        "age": 64,
+        "phone_number": "07700900515",
+        "farm_id": 1901305
+      }
+    ],
+    "product": [
+      { "id": 1915235, "type": "savings", "name": "45 Day Notice Account" },
+      { "id": 1693385, "type": "savings", "name": "90 Day Notice Account" },
+      { "id": 1792464, "type": "loan", "name": "Term Loan" },
+      { "id": 1267239, "type": "flexi_credit", "name": "Flexible Credit" }
+    ]
+  }
+}
